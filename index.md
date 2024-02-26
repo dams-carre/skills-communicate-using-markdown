@@ -7,3 +7,7 @@ ceci est un test pour comprendre le fonctionnement des Headers avec les markdown
 boolean test=false;
 if(test) return true;
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
